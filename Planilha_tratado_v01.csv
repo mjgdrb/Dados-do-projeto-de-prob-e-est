@@ -1,47 +1,47 @@
-﻿Qual a semestre de ingresso no curso de Sistemas de Informacao?;Qual o seu genero?;Qual a sua idade (em anos)?;Qual a sua situacao de trabalho atual?;Em qual ZONA de Manaus voce mora?;Em qual turno voce costuma SAIR DE CASA para ir a EST?;No TOTAL, quanto tempo (em MINUTOS) voce leva de casa ate a EST (somente a IDA)?;Qual o seu PRINCIPAL meio de transporte para IR a EST?;Quanto voce gasta POR SEMANA com transporte para IR a  EST (em R$)?;Com que frequencia voce chega atrasado(a) a EST por causa do deslocamento?;Em que medida o tempo e o cansaco gastos com o deslocamento (transporte) afetam o seu rendimento nos estudos? ;Qual o seu coeficiente de rendimento (CR) atual?
-2025/1;Masculino;20;Bolsista;Sul;Manha;40;Onibus;30,5;As vezes;3;8,4
-2026/1;Feminino;19;Nao trabalha;Norte;Tarde;70;Onibus;12,5;Frequentemente;5;9
-2026/1;Masculino;22;Nao trabalha;Leste;Tarde;70;Onibus;25;Raramente;4;9,02
+﻿Qual a semestre de ingresso no curso de Sistemas de Informacao?;Qual o seu genero?;Qual a sua idade (em anos)?;Qual a sua situacao de trabalho atual?;Em qual ZONA de Manaus voce mora?;Em qual turno voce costuma SAIR DE CASA para ir a EST?;No TOTAL. quanto tempo (em MINUTOS) voce leva de casa ate a EST (somente a IDA)?;Qual o seu PRINCIPAL meio de transporte para IR a EST?;Quanto voce gasta POR SEMANA com transporte para IR a  EST (em R$)?;Com que frequencia voce chega atrasado(a) a EST por causa do deslocamento?;Em que medida o tempo e o cansaco gastos com o deslocamento (transporte) afetam o seu rendimento nos estudos? ;Qual o seu coeficiente de rendimento (CR) atual?
+2025/1;Masculino;20;Bolsista;Sul;Manha;40;Onibus;30.5;As vezes;3;8.4
+2026/1;Feminino;19;Nao trabalha;Norte;Tarde;70;Onibus;12.5;Frequentemente;5;9
+2026/1;Masculino;22;Nao trabalha;Leste;Tarde;70;Onibus;25;Raramente;4;9.02
 2026/1;Feminino;18;Nao trabalha;Centro-Sul;Manha;40;Onibus;50;Raramente;3;4
-2026/1;Feminino;18;Nao trabalha;Norte;Tarde;30;Onibus;12,5;Raramente;3;8,7
-2024/1;Feminino;20;Nao trabalha;Sul;Tarde;12;Carro;0;As vezes;2;8,7
-2025/1;Masculino;20;Estagio;Centro-Sul;Manha;17;A pe;0;Nunca;1;7,8
-2025/1;Masculino;19;Estagio;Sul;Manha;15;Carro;30;As vezes;1;7,85
-2023/1;Masculino;24;Estagio;Centro-Sul;Manha;40;Carro;100;As vezes;2;9,01
-2023/1;Masculino;25;Estagio;Norte;Tarde;25;Moto;25;Raramente;4;7,8
-2023/1;Masculino;22;Estagio;Norte;Tarde;40;Aplicativo (Uber/99) ou taxi;45;Frequentemente;4;8,5
-2026/1;Masculino;18;Nao trabalha;Norte;Tarde;85;Onibus;20;Frequentemente;4;7,3
-2023/1;Feminino;21;Estagio;Norte;Tarde;30;Aplicativo (Uber/99) ou taxi;80;As vezes;3;8,4
-2023/1;Masculino;21;Estagio;Sul;Tarde;60;Onibus;7,5;As vezes;2;9,012
-2023/1;Masculino;22;Estagio;Centro-Sul;Tarde;10;Carro;80;Nunca;1;9,15
-2021/1;Masculino;22;Estagio;Norte;Tarde;50;Onibus;12,5;Frequentemente;5;7,25
-2023/1;Masculino;24;Estagio;Oeste;Tarde;15;Carro;13;As vezes;4;8,67
-2020/1;Masculino;29;Estagio;Centro-Sul;Manha;25;Carro;0;As vezes;2;4,979
-2024/1;Masculino;20;Bolsista;Norte;Manha;70;Onibus;25;As vezes;5;8,84
-2021/1;Masculino;23;Bolsista;Sul;Manha;60;Carro;160;As vezes;4;7,218
-2024/1;Feminino;20;Estagio;Norte;Manha;75;Onibus;12,5;As vezes;3;8,75
-2024/1;Feminino;20;Bolsista;Leste;Manha;80;Onibus;12,5;Frequentemente;4;9,37
-2020/1;Masculino;26;Estagio;Centro-Oeste;Manha;20;Onibus;12,5;Raramente;4;7,33
-2023/1;Masculino;21;Bolsista;Leste;Tarde;50;Carro;33,2;Frequentemente;4;8,472
+2026/1;Feminino;18;Nao trabalha;Norte;Tarde;30;Onibus;12.5;Raramente;3;8.7
+2024/1;Feminino;20;Nao trabalha;Sul;Tarde;12;Carro;0;As vezes;2;8.7
+2025/1;Masculino;20;Estagio;Centro-Sul;Manha;17;A pe;0;Nunca;1;7.8
+2025/1;Masculino;19;Estagio;Sul;Manha;15;Carro;30;As vezes;1;7.85
+2023/1;Masculino;24;Estagio;Centro-Sul;Manha;40;Carro;100;As vezes;2;9.01
+2023/1;Masculino;25;Estagio;Norte;Tarde;25;Moto;25;Raramente;4;7.8
+2023/1;Masculino;22;Estagio;Norte;Tarde;40;Aplicativo (Uber/99) ou taxi;45;Frequentemente;4;8.5
+2026/1;Masculino;18;Nao trabalha;Norte;Tarde;85;Onibus;20;Frequentemente;4;7.3
+2023/1;Feminino;21;Estagio;Norte;Tarde;30;Aplicativo (Uber/99) ou taxi;80;As vezes;3;8.4
+2023/1;Masculino;21;Estagio;Sul;Tarde;60;Onibus;7.5;As vezes;2;9.012
+2023/1;Masculino;22;Estagio;Centro-Sul;Tarde;10;Carro;80;Nunca;1;9.15
+2021/1;Masculino;22;Estagio;Norte;Tarde;50;Onibus;12.5;Frequentemente;5;7.25
+2023/1;Masculino;24;Estagio;Oeste;Tarde;15;Carro;13;As vezes;4;8.67
+2020/1;Masculino;29;Estagio;Centro-Sul;Manha;25;Carro;0;As vezes;2;4.979
+2024/1;Masculino;20;Bolsista;Norte;Manha;70;Onibus;25;As vezes;5;8.84
+2021/1;Masculino;23;Bolsista;Sul;Manha;60;Carro;160;As vezes;4;7.218
+2024/1;Feminino;20;Estagio;Norte;Manha;75;Onibus;12.5;As vezes;3;8.75
+2024/1;Feminino;20;Bolsista;Leste;Manha;80;Onibus;12.5;Frequentemente;4;9.37
+2020/1;Masculino;26;Estagio;Centro-Oeste;Manha;20;Onibus;12.5;Raramente;4;7.33
+2023/1;Masculino;21;Bolsista;Leste;Tarde;50;Carro;33.2;Frequentemente;4;8.472
 2021/1;Masculino;30;Autonomo;Centro-Oeste;Tarde;30;A pe;50;Raramente;3;7
-2022/1;Masculino;28;Nao trabalha;Norte;Noite;95;Onibus;0;Raramente;3;7,8
-2021/1;Masculino;23;Estagio;Centro-Sul;Manha;25;Carro;0;Raramente;1;8,2
-2023/1;Masculino;22;Bolsista;Centro-Sul;Manha;15;Aplicativo (Uber/99) ou taxi;100;Frequentemente;3;8,771
-2022/1;Masculino;22;Nao trabalha;Centro-Oeste;Tarde;15;Aplicativo (Uber/99) ou taxi;45;Raramente;1;8,05
-2023/1;Masculino;21;CLT;Sul;Tarde;15;Carro;100;As vezes;2;7,9
+2022/1;Masculino;28;Nao trabalha;Norte;Noite;95;Onibus;0;Raramente;3;7.8
+2021/1;Masculino;23;Estagio;Centro-Sul;Manha;25;Carro;0;Raramente;1;8.2
+2023/1;Masculino;22;Bolsista;Centro-Sul;Manha;15;Aplicativo (Uber/99) ou taxi;100;Frequentemente;3;8.771
+2022/1;Masculino;22;Nao trabalha;Centro-Oeste;Tarde;15;Aplicativo (Uber/99) ou taxi;45;Raramente;1;8.05
+2023/1;Masculino;21;CLT;Sul;Tarde;15;Carro;100;As vezes;2;7.9
 2024/1;Masculino;24;CLT;Centro-Sul;Manha;10;Carro;35;Raramente;1;9
-2022/1;Masculino;22;CLT;Norte;Manha;25;Carro;120;Raramente;3;8,511
-2024/1;Feminino;21;Estagio;Leste;Tarde;25;Aplicativo (Uber/99) ou taxi;70;Raramente;1;9,05
+2022/1;Masculino;22;CLT;Norte;Manha;25;Carro;120;Raramente;3;8.511
+2024/1;Feminino;21;Estagio;Leste;Tarde;25;Aplicativo (Uber/99) ou taxi;70;Raramente;1;9.05
 2020/1;Masculino;28;Bolsista;Leste;Manha;30;Moto;50;As vezes;3;7
-2020/1;Masculino;32;Estagio;Centro-Oeste;Manha;25;Moto;40;Raramente;4;7,78
-2021/1;Masculino;23;CLT;Leste;Tarde;40;Aplicativo (Uber/99) ou taxi;60;Raramente;1;8,6
-2020/1;Masculino;27;Autonomo;Norte;Tarde;25;Carro;0;As vezes;2;6,123
-2025/1;Masculino;20;Bolsista;Leste;Manha;45;Onibus;50;As vezes;3;7,38
-2022/1;Masculino;24;Bolsista;Oeste;Manha;20;Moto;50;As vezes;2;8,23
-2024/1;Masculino;20;Bolsista;Centro-Sul;Manha;35;Carro;50;Raramente;4;8,46
-2023/1;Masculino;21;Nao trabalha;Leste;Tarde;50;Carro;34,5;Frequentemente;5;8,725
-2025/1;Masculino;19;Estagio;Oeste;Manha;90;Onibus;0;Raramente;4;7,2
+2020/1;Masculino;32;Estagio;Centro-Oeste;Manha;25;Moto;40;Raramente;4;7.78
+2021/1;Masculino;23;CLT;Leste;Tarde;40;Aplicativo (Uber/99) ou taxi;60;Raramente;1;8.6
+2020/1;Masculino;27;Autonomo;Norte;Tarde;25;Carro;0;As vezes;2;6.123
+2025/1;Masculino;20;Bolsista;Leste;Manha;45;Onibus;50;As vezes;3;7.38
+2022/1;Masculino;24;Bolsista;Oeste;Manha;20;Moto;50;As vezes;2;8.23
+2024/1;Masculino;20;Bolsista;Centro-Sul;Manha;35;Carro;50;Raramente;4;8.46
+2023/1;Masculino;21;Nao trabalha;Leste;Tarde;50;Carro;34.5;Frequentemente;5;8.725
+2025/1;Masculino;19;Estagio;Oeste;Manha;90;Onibus;0;Raramente;4;7.2
 2025/1;Feminino;20;Estagio;Norte;Manha;60;Aplicativo (Uber/99) ou taxi;70;As vezes;3;9
-2023/1;Masculino;21;CLT;Centro-Oeste;Tarde;30;Onibus;30;Raramente;2;9,071
-2022/1;Masculino;23;Estagio;Norte;Tarde;60;Onibus;10;Sempre;5;8,26
-2025/1;Masculino;25;Estagio;Leste;Manha;90;Onibus;30;Sempre;5;7,1
+2023/1;Masculino;21;CLT;Centro-Oeste;Tarde;30;Onibus;30;Raramente;2;9.071
+2022/1;Masculino;23;Estagio;Norte;Tarde;60;Onibus;10;Sempre;5;8.26
+2025/1;Masculino;25;Estagio;Leste;Manha;90;Onibus;30;Sempre;5;7.1
